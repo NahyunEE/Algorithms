@@ -2,64 +2,29 @@
 #include <stdlib.h>
 #include <string.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+int main() {
+    int i = 0;
+    int num = 0;
+    char *arr;
 
-int main(int argc, char *argv[]) {
-	
-	
-	char arr[1000001]; // 1Mbyte
-	unsigned int arr2[26]={0}; // 4 byte 
-	unsigned int max=0; // 4 byte
-	unsigned int count=0; // 4 byte
-	unsigned int i=0; //4 byte
-	unsigned int result=0; // 4 byte
-	
+    arr = (char *)malloc(sizeof(char) * 1000);
+    memset(arr, '0', sizeof(char) * 1000);
 
-	scanf("%s",arr);
-	
-	int num = strlen(arr); // O(N)
-	
-	for(i=0; i< num; ++i){ //O(N)
-		
-		int temp;
-		
-		if(arr[i] < 'a'){
-			temp = arr[i] - 'A';
-			//printf("%d" , temp);
-		}else{
-			temp = arr[i] - 'a';
-			//printf("%d", temp);
-		}
+ 
+    while (scanf("%c", &arr[i]) == 1 && arr[i] != '\n') {
+        i++;
+        if (i == 1000)
+            break;
+    }
 
-		arr2[temp]++;
-		
-		if(arr2[temp] > max){
-			max = arr2[temp];
-		}
-				
-	}
-	
-	
-	
-	for(i=0; i <26 ; ++i){ 
-		
-		if(arr2[i] == max){
-			count++;
-			result = i;			
-		}		
-	
-	}	
-	
-	if(count > 1){
-		printf("?");
-	}else{
-		printf("%c",(char)(result + 'A'));
-	}
-	
-	
-	
-	
-	
-	
-	return 0;
+   
+    scanf("%d", &num);   
+    printf("%c\n", arr[num - 1]);
+   
+
+    free(arr);
+    arr = NULL;
+
+    return 0;
 }
+
