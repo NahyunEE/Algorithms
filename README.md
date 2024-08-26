@@ -12,7 +12,7 @@ strlen함수는 문자열의 길이를 계산하는 함수
 char a[100]으로 선언하더라도, a 가 "helo"일때 strlen은 4이다.
 
 '''
-for(int i=0; i < strlen(arr); ++i) {...}
+  for(int i=0; i < strlen(arr); ++i) {...}
 '''
 위와 같은 코드는 O(N^2)의 시간복잡도를 가진다.
 strlen(arr)이 O(N)의 시간복잡도를 가지기 때문에
