@@ -60,6 +60,37 @@ for(int i=0; i < num; ++i) {...}
 - N의 범위가 10,000,000: 시간 복잡도가 O(N) 이하인 알고리즘을 설계<br>
 - N의 범위가 10,000,000,000: 시간 복잡도가 O(logN) 이하인 알고리즘을 설계<br>
 
+## strcmp() 함수
+- 일반적으로 문자열을 비교할 때는 strcmp 함수를 써야한다.<br>
+  그 이유는 '==' 연산자는 포인터 기반의 연산을 하기 때문이다. 
+
+```
+int changeScore(const char *str) {
+    if (strcmp(str, "A0") == 0) return 0;
+    if (strcmp(str, "A+") == 0) return 1;
+     ...
+    if (strcmp(str, "P") == 0) return 9;
+    return -1; 
+}
+```
+
+## scanf() 함수
+- scanf()함수는 포인터 기반의 변수를 입력으로 받는다. 즉 입력버퍼에서 받는 값을 포언터를 통해서 메모리에 저장한다.
+
+```
+ struct obj{
+	 char name[51];
+	 float hakjum;
+	 char score[3];
+ };
+ struct obj BuRupDa;
+ scanf("%50s %f %2s", BuRupDa.name, &BuRupDa.hakjum, BuRupDa.score);
+```
+
+## switch 문
+- C언어는 switch문에 정수만 가능하다.
+- 문자열이나 실수같은 경우는 변환해서 사용해야한다.
+- 해쉬함수로 문자열을 바꿀 수있다고 한다.
 
 
 
