@@ -76,6 +76,7 @@ int changeScore(const char *str) {
 
 ## scanf() 함수
 - scanf()함수는 포인터 기반의 변수를 입력으로 받는다. 즉 입력버퍼에서 받는 값을 포언터를 통해서 메모리에 저장한다.
+- "%d"에 숫자를 중간에 넣으면 입력버퍼의 길이를 정할 수 있다.
 
 ```
  struct obj{
@@ -92,10 +93,5 @@ int changeScore(const char *str) {
 - 문자열이나 실수같은 경우는 변환해서 사용해야한다.
 - 해쉬함수로 문자열을 바꿀 수있다고 한다.
 
-## 입력받을 때 
-- 입력 버퍼의 크기를 조절할 수 있다.
-```
- scanf("%50s %f %2s", BuRupDa.name, &BuRupDa.hakjum, BuRupDa.score);
-```
 
 
