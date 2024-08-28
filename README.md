@@ -92,7 +92,10 @@ int changeScore(const char *str) {
 - 문자열이나 실수같은 경우는 변환해서 사용해야한다.
 - 해쉬함수로 문자열을 바꿀 수있다고 한다.
 
-
-
+## 입력받을 때 
+- 입력 버퍼의 크기를 조절할 수 있다.
+```
+ scanf("%50s %f %2s", BuRupDa.name, &BuRupDa.hakjum, BuRupDa.score);
+```
 
 
