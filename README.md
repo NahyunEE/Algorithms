@@ -88,6 +88,13 @@ int changeScore(const char *str) {
  scanf("%50s %f %2s", BuRupDa.name, &BuRupDa.hakjum, BuRupDa.score);
 ```
 
+## fgets() 함수
+- 받는 문자열의 길이를 정할 수 있다.
+```
+fgets(arr[y], MAX_COLUMNS + 1, stdin)
+```
+
+
 ## switch 문
 - C언어는 switch문에 정수만 가능하다.
 - 문자열이나 실수같은 경우는 변환해서 사용해야한다.
