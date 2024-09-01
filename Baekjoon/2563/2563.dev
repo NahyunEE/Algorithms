@@ -1,6 +1,6 @@
 [Project]
-FileName=10798.dev
-Name=10798
+FileName=2563.dev
+Name=2563
 Type=1
 Ver=2
 ObjFiles=
@@ -29,7 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=0000000000000000000000000
-UnitCount=2
+UnitCount=1
 
 [VersionInfo]
 Major=1
@@ -52,16 +52,6 @@ SyncProduct=1
 
 [Unit1]
 FileName=main.c
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit2]
-FileName=other.c
 CompileCpp=0
 Folder=
 Compile=1
