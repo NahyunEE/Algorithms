@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED637B-1CDE-4C16-87D4-95BA10A83A04}|Project1\\Project1.vcxproj|C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\Project1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{41ED637B-1CDE-4C16-87D4-95BA10A83A04}|Project1\\Project1.vcxproj|solutionrelative:Project1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED637B-1CDE-4C16-87D4-95BA10A83A04}|Project1\\Project1.vcxproj|C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\Project1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{41ED637B-1CDE-4C16-87D4-95BA10A83A04}|Project1\\Project1.vcxproj|solutionrelative:Project1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED637B-1CDE-4C16-87D4-95BA10A83A04}|Project1\\Project1.vcxproj|C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\Project1\\3085.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41ED637B-1CDE-4C16-87D4-95BA10A83A04}|Project1\\Project1.vcxproj|solutionrelative:Project1\\3085.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED637B-1CDE-4C16-87D4-95BA10A83A04}|Project1\\Project1.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.42.34433\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ViewState": "AgIAAEwDAAAAAAAAAAAjwFwDAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-02T20:16:21.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\Project1\\output.txt",
+              "RelativeDocumentMoniker": "Project1\\output.txt",
+              "ToolTip": "C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\Project1\\output.txt",
+              "RelativeToolTip": "Project1\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-02T19:35:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\Project1\\input.txt",
+              "RelativeDocumentMoniker": "Project1\\input.txt",
+              "ToolTip": "C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\Project1\\input.txt*",
+              "RelativeToolTip": "Project1\\input.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-02T19:35:09.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3085.cpp",
+              "DocumentMoniker": "C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\Project1\\3085.cpp",
+              "RelativeDocumentMoniker": "Project1\\3085.cpp",
+              "ToolTip": "C:\\workspace\\Algorithms\\Baekjoon\\3085\\Project1\\Project1\\3085.cpp",
+              "RelativeToolTip": "Project1\\3085.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T19:31:29.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
