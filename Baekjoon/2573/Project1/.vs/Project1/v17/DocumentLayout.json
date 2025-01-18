@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\2573\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06F3C0C5-A047-4B65-A07D-A328E9AB3120}|Project1\\Project1.vcxproj|C:\\workspace\\2573\\Project1\\Project1\\2573.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06F3C0C5-A047-4B65-A07D-A328E9AB3120}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2573.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F3C0C5-A047-4B65-A07D-A328E9AB3120}|Project1\\Project1.vcxproj|C:\\workspace\\2573\\Project1\\Project1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06F3C0C5-A047-4B65-A07D-A328E9AB3120}|Project1\\Project1.vcxproj|solutionrelative:Project1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F3C0C5-A047-4B65-A07D-A328E9AB3120}|Project1\\Project1.vcxproj|C:\\workspace\\2573\\Project1\\Project1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06F3C0C5-A047-4B65-A07D-A328E9AB3120}|Project1\\Project1.vcxproj|solutionrelative:Project1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\workspace\\2573\\Project1\\Project1\\output.txt",
+              "RelativeDocumentMoniker": "Project1\\output.txt",
+              "ToolTip": "C:\\workspace\\2573\\Project1\\Project1\\output.txt",
+              "RelativeToolTip": "Project1\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-18T13:48:33.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\workspace\\2573\\Project1\\Project1\\input.txt",
+              "RelativeDocumentMoniker": "Project1\\input.txt",
+              "ToolTip": "C:\\workspace\\2573\\Project1\\Project1\\input.txt",
+              "RelativeToolTip": "Project1\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-18T13:48:24.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2573.cpp",
+              "DocumentMoniker": "C:\\workspace\\2573\\Project1\\Project1\\2573.cpp",
+              "RelativeDocumentMoniker": "Project1\\2573.cpp",
+              "ToolTip": "C:\\workspace\\2573\\Project1\\Project1\\2573.cpp",
+              "RelativeToolTip": "Project1\\2573.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T13:23:10.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
