@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\workspace\\Algorithms\\Baekjoon\\1030\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE8DE7C8-BCDA-489E-B138-099B63880444}|Project1\\Project1.vcxproj|C:\\workspace\\Algorithms\\Baekjoon\\1030\\Project1\\Project1\\1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EE8DE7C8-BCDA-489E-B138-099B63880444}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\workspace\\Algorithms\\Baekjoon\\1030\\Project1\\Project1\\1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\1030.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Project1\\1030.cpp",
               "ToolTip": "C:\\workspace\\Algorithms\\Baekjoon\\1030\\Project1\\Project1\\1030.cpp",
               "RelativeToolTip": "Project1\\1030.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-06T02:51:18.173Z",
               "EditorCaption": ""

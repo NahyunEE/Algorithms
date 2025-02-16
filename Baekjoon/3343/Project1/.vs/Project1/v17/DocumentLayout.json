@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\Algorithms\\Baekjoon\\3343\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB310C8D-5C73-4BD4-9FA3-5A10C34AC60B}|Project1\\Project1.vcxproj|C:\\workspace\\Algorithms\\Baekjoon\\3343\\Project1\\Project1\\3343.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB310C8D-5C73-4BD4-9FA3-5A10C34AC60B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\3343.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3343.cpp",
+              "DocumentMoniker": "C:\\workspace\\Algorithms\\Baekjoon\\3343\\Project1\\Project1\\3343.cpp",
+              "RelativeDocumentMoniker": "Project1\\3343.cpp",
+              "ToolTip": "C:\\workspace\\Algorithms\\Baekjoon\\3343\\Project1\\Project1\\3343.cpp*",
+              "RelativeToolTip": "Project1\\3343.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T07:54:09.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
